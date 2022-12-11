@@ -22,6 +22,7 @@ The resources, tools, or coding techniques I employed—such as using high-quali
 # Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 I would demonstrate to potential employers the documentation I produced for the task, demonstrating how I was able to recognize the client's vulnerabilities and how to handle them effectively. The task would in part demonstrate my writing abilities and the degree to which all requirements were accomplished.
 
+# Ending
 I am very grateful for your time professor! I hope you have a great rest of your day! I am truly grateful! Take care!
 
 Sincerely,
